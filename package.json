@@ -1,0 +1,16 @@
+{
+  "name": "ip-reporter",
+  "version": "0.0.1",
+  "description": "Report ip to discord webhook, when start or network interface changed.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antknt47",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "config": "^3.3.7",
+    "log4js": "^6.5.1"
+  }
+}
